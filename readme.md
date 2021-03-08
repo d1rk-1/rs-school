@@ -14,3 +14,5 @@ _______
 I get theoretical and practical skills from the course on udemy.com (full course on JavaScript (by Ivan Petrichenko) and from the book Head First Javascript
 Programming (Eric T. Freeman, Elisabeth Robson).
 I get my English practice through communication with clients at upwork.com.
+
+d1rk-1.github.io/rsschool-cv/cv
